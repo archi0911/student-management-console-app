@@ -46,7 +46,7 @@ function updateStudent(id, fname, age, grade) {
 }
 
 function removeStudent(id) {
-  students.filter(item => item.id !== id);
+  students = students.filter(item => item.id !== id);
   console.log(students);
 }
 
