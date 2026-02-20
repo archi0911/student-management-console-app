@@ -55,6 +55,5 @@ console.log("Available Functions:");
 console.log("addStudent(name, age, grade)");
 console.log("listStudent()");
 console.log("searchStudent(name)");
-console.log("updateStudent(id)");
-console.log("removeStudent()");
-
+console.log("updateStudent(id, name, age, grade)");
+console.log("removeStudent(id)");
